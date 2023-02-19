@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3103EEE7-9F14-48A1-BA58-5EB6EA685DDE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SentinelDataGenerator/appsettings.json">
+    <Files>
+      <File FileName="SentinelDataGenerator/Generators.cs" Line="6" Column="5" />
+      <File FileName="SentinelDataGenerator/Program.cs" Line="27" Column="1" />
+      <File FileName="SentinelDataGenerator/Worker.cs" Line="67" Column="52" />
+      <File FileName="SentinelDataGenerator/appsettings.json" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SentinelDataGenerator" expanded="True">
+            <Node name="SentinelDataGenerator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SentinelDataGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

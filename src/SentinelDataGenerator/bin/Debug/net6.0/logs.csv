@@ -1,0 +1,111 @@
+Id,Username,IpAddress,UserAgent,MfaUsed,EventDateTime,IsAnomaly
+40574eb2-8c02-4fcc-b6ce-55a128522909,k.vaak,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,01/04/2019 05:33:01,False
+689dcc2d-dc5d-42af-abaa-5a53913318dd,k.vaak,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,01/04/2019 22:14:01,False
+9ef9224b-4cc1-48d3-8160-df527550654d,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,02/05/2019 07:48:01,False
+65aacf95-3675-440e-a60b-cf9639781085,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,02/13/2019 15:36:01,False
+7d1b20bd-247e-40cb-a97a-d33cc37d8602,k.vaak,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,02/18/2019 06:53:01,False
+1864cce7-a2a7-450c-bc36-a4b9a5222ef0,j.degroot,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,02/22/2019 21:58:01,False
+4a74a9f7-fb9f-404b-8e9a-c12b21516291,j.jansen,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,03/13/2019 18:30:01,False
+8b198bac-97e7-4cbf-94ee-4372f3b71adb,j.jansen,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,03/16/2019 12:23:01,False
+33025165-4aae-417d-b61e-cf9299dacb60,j.degroot,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,03/20/2019 01:46:01,False
+061c689b-92c6-4c9a-98a7-7add95f608eb,j.jansen,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,03/27/2019 02:45:01,False
+2eaf8ca8-4774-468f-bb6b-52f32a34621c,j.jansen,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,04/19/2019 10:51:01,False
+89404450-83d6-4c0f-834f-6d64c9bb9fc5,k.vaak,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,04/23/2019 18:47:01,False
+05f7a0a6-56fb-445f-9281-eaadd91cd43a,j.degroot,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,05/26/2019 03:02:01,False
+5d5d53f6-7702-4fbf-a98d-43a6ae7d838b,j.degroot,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,05/27/2019 15:26:01,False
+f9c11d22-6105-4a77-a505-2e2614975376,f.devries,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,05/28/2019 11:32:01,False
+ff839d06-9a43-4e17-a934-eef79c98f49e,j.degroot,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,06/01/2019 14:46:01,False
+2f6f9f3c-db98-4917-8682-92400e51145c,j.degroot,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,06/09/2019 17:48:01,False
+73904126-e218-437f-8cb3-408cc8b0fff6,j.jansen,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,06/13/2019 03:47:01,True
+85544f3b-876b-41e6-97e7-27348aecbed9,j.jansen,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,06/16/2019 07:52:01,False
+b0d9c3ca-58a6-4f94-a61c-6f98f1a5b312,k.vaak,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,06/24/2019 04:56:01,False
+2ffaa402-4292-44a7-9614-63a452e9a554,j.jansen,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,07/10/2019 01:30:01,False
+61e037ac-b1e4-4e2c-aece-5f25ba9f6129,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,08/17/2019 12:14:01,False
+16684ab8-5a75-432e-af91-3020a77e04e7,j.degroot,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,08/27/2019 12:50:01,False
+2b2c16c3-bdf3-4361-b84c-9be94cce08de,j.jansen,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,09/03/2019 08:38:01,False
+9429aedd-053e-4338-9feb-c3bfa801751e,j.jansen,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,09/18/2019 23:55:01,False
+9e98fdeb-655a-4fe2-8482-52fa71a25bdc,j.degroot,40.92.16.16,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,09/19/2019 00:11:01,False
+270098e3-9138-4702-ac3f-6b8300bd70f0,k.vaak,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,09/20/2019 04:44:01,False
+3fda57fd-3755-44b5-8f06-6e2f9bd01bf5,f.devries,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,09/22/2019 00:15:01,False
+c4c111b9-b2d0-420a-9ee7-7625f8ccbb82,j.degroot,40.80.122.5,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,09/23/2019 01:21:01,False
+339ea180-7a05-463b-8fed-c2e1a51c5858,j.jansen,188.144.22.8,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,10/08/2019 22:02:01,False
+66f872d9-770e-4312-8579-831564b2ea6e,k.vaak,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,12/02/2019 13:41:01,False
+1245b868-abdf-48e3-a0cd-9f8d45967cda,k.vaak,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,12/22/2019 22:53:01,False
+0d71e8eb-55e9-4b75-8109-081dabfbaf9b,f.devries,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,12/28/2019 02:19:01,False
+90062240-361b-43e2-9390-21213c8435b3,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,01/03/2020 17:01:01,False
+a943f23c-fdae-4698-a1e5-89024da869a5,f.devries,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,01/23/2020 09:35:01,True
+db092281-9188-4fba-b36e-bef5a0c43957,f.devries,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,02/10/2020 08:49:01,False
+75dcc11a-63d4-4549-bb5f-9c7b1092d35a,j.degroot,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,02/13/2020 12:54:01,True
+dca48fca-2cc5-4294-afeb-fbd36975c45a,f.devries,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,02/14/2020 05:32:01,True
+21e1d1af-c938-4ed1-a0f7-a9b1b10cad30,f.devries,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,02/23/2020 01:54:01,False
+1d4f6f65-bf49-4cfc-b5fa-18b8d9921bed,f.devries,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,03/15/2020 22:18:01,False
+e3cb6373-4d68-4768-b95e-0144e1ccf838,j.degroot,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,03/17/2020 04:17:01,False
+126e7b3c-7cbe-4e35-8cf1-ad8052def47d,f.devries,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,03/17/2020 17:28:01,False
+6aebc902-09d0-4030-82df-e4dfb3029985,f.devries,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,03/29/2020 11:37:01,False
+fcc2952a-8069-46af-9a9b-fd75d3d28360,k.vaak,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,04/03/2020 16:23:01,False
+3573c7fb-56b8-4d39-9790-c5efa4dfb945,j.jansen,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,04/20/2020 01:53:01,False
+7acff9db-a4e8-4f71-af98-19c152bab889,k.vaak,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,04/20/2020 10:47:01,True
+b381bdd1-e205-4999-8652-fd8176b06420,k.vaak,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,04/20/2020 12:41:01,True
+109a026b-e8c7-4eac-918a-e37ea9c086c8,j.jansen,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,04/23/2020 02:31:01,False
+e68985d3-d59d-4c16-9d2a-13a104a0636a,j.jansen,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,04/25/2020 18:15:01,True
+e9a3dad2-1afc-42a1-a0ff-4685efaf1c22,j.degroot,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,05/07/2020 14:25:01,False
+d5e7fd5d-6f6f-49b3-a52e-394c4eab8540,f.devries,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,05/15/2020 09:13:01,False
+2e84ebf7-17e7-418f-aa82-08d7f91af4b0,j.degroot,188.144.22.8,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,05/25/2020 09:39:01,False
+d05d5d5b-12ee-4291-b32d-3b0f142c0bd7,f.devries,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,05/29/2020 23:06:01,False
+4874a7d1-c1d6-4173-ba41-0db358116177,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,06/09/2020 05:21:01,False
+769945e4-5fb0-406f-8c7d-4f50820e3349,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,06/13/2020 20:25:01,False
+089b4985-9bcf-4629-a56b-379198358092,f.devries,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,06/23/2020 18:12:01,False
+f4e0606d-10cd-4700-ab2b-e75ed6174990,k.vaak,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,07/14/2020 17:51:01,False
+72057ad3-9608-44d2-9449-850b732b12b8,k.vaak,188.144.22.8,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,07/23/2020 02:55:01,False
+43fb7c18-c4fe-4a9b-a504-258ff2426165,f.devries,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,08/10/2020 17:09:01,True
+37ccc843-2dad-403e-9c1c-2023ad67cf1e,k.vaak,123.6.12.162,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,08/17/2020 04:52:01,False
+d1a887f0-acfe-4889-ab55-0b31e13c3d4f,f.devries,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,09/04/2020 09:22:01,False
+5c5d08cd-93c6-4a14-96da-f47b448de64d,f.devries,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,09/10/2020 02:53:01,False
+67d15fde-edca-4b75-b725-d7b127d4d716,j.jansen,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,09/25/2020 15:57:01,False
+dff0cefe-45bf-4f4a-94ce-a2e39bcb259d,j.degroot,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,10/02/2020 18:00:01,False
+f6627e9e-db30-435d-a3b9-db8b063766eb,k.vaak,188.144.22.8,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,10/04/2020 11:34:01,False
+d5046ba7-ff5a-4f89-8e5d-0cd39ea80a2b,j.degroot,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,10/12/2020 12:40:01,False
+63e56d7a-b64d-4aad-a2a6-4cb232dfdc56,j.degroot,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,10/15/2020 21:23:01,False
+12b05cd9-a1a3-473f-9190-3ee05e8d996d,j.jansen,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,10/20/2020 07:23:01,False
+127f585b-d715-4a13-b74a-e97adbcba932,f.devries,40.80.122.5,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,12/14/2020 21:24:01,False
+2120ef6c-0eb3-44e2-8175-aac3b38ec12c,f.devries,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,01/03/2021 11:08:01,False
+2a15f2e6-3b16-47c8-b038-32d0a2bb6d52,j.degroot,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,01/08/2021 08:03:01,False
+ed366d31-797a-406a-8631-4ef18f337687,f.devries,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,01/09/2021 20:32:01,True
+b84998e1-efe0-4ca8-b7db-3f2d9fb019f1,f.devries,52.10.0.5,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,01/11/2021 00:26:01,True
+e4418647-9c3d-40a9-923d-cd7ad9c2aea0,j.degroot,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,01/15/2021 11:42:01,False
+0c47189c-e4ee-43f9-a115-bb3e8e647939,f.devries,40.80.122.5,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,01/24/2021 16:52:01,False
+f7619abc-1b32-41ff-9336-c183043f97b4,f.devries,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,02/04/2021 00:17:01,False
+b42eca11-0db8-46d1-9e2a-1aaca4f40ae6,f.devries,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,02/04/2021 11:02:01,False
+d332ea37-b781-40e2-ba56-9826c6431f5d,f.devries,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,03/07/2021 10:09:01,False
+a9adf2f4-83c6-42a5-b994-46ea3039e3f7,j.jansen,40.92.16.16,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,03/17/2021 09:59:01,False
+99c9e822-9f47-4c16-bc87-3f8019dca249,f.devries,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,04/11/2021 08:49:01,False
+820cde71-793b-4a70-b9a5-dd44ef6a6aa8,k.vaak,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,07/19/2021 07:38:01,False
+69b101ba-1ff4-44da-b195-ec8d3e475661,f.devries,40.92.16.16,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,07/25/2021 09:20:01,False
+7817a235-6a07-4436-a5ad-2c3e9d04bc5f,j.degroot,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,07/30/2021 00:20:01,False
+fee74603-440b-4156-bf1a-7dd004aff47d,f.devries,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,08/20/2021 16:08:01,False
+a10bf8b9-bc27-401d-8103-91a6fa1c4a99,j.jansen,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,08/24/2021 10:30:01,False
+8c232ea0-664c-46c6-b5fc-79da301446c5,k.vaak,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,09/18/2021 02:11:01,False
+2c011151-a42c-40ca-a30e-b5f7ec683c26,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,09/27/2021 14:02:01,False
+6f99a686-0861-493b-bae1-e28b95e1f344,j.degroot,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,09/29/2021 07:21:01,False
+7891a06c-5fd7-4e25-a52c-b0eb38e1635f,k.vaak,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,10/09/2021 03:16:01,False
+f36a518b-bbe5-4f96-81d6-d8d569a8fb57,k.vaak,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,10/16/2021 18:21:01,False
+f8b59e3d-8f5d-4a1a-8abd-195bb111b392,k.vaak,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,10/18/2021 10:11:01,False
+8745ed76-1c51-444d-b5bc-633c98c04115,j.degroot,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,11/21/2021 17:34:01,False
+3d057583-d120-4e9d-b603-4197bfaad305,f.devries,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,11/23/2021 07:29:01,False
+9f8bbd49-2657-4bc7-9abc-6d98ec280665,j.jansen,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,11/23/2021 16:02:01,False
+713d1ed6-ecfb-4a52-ba68-dc74c701ea80,f.devries,40.92.16.16,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,12/18/2021 01:45:01,False
+dd8f0144-e4e5-4dfc-83e4-416c77c15e4f,j.jansen,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,12/27/2021 18:29:01,False
+ce9f2195-e58f-41b9-9d15-645a74ab9c63,j.jansen,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,01/08/2022 15:41:01,False
+3fec82ee-7e69-4ed2-afce-0d6684e7aa49,k.vaak,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,01/24/2022 00:12:01,False
+8e092af5-9206-4ce7-a066-5fb35d5c8c15,f.devries,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,01/30/2022 08:16:01,False
+74cecbf6-69a5-4ea7-bd03-7774a69fbafa,f.devries,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,02/26/2022 10:44:01,False
+0bcbd9a1-68ff-4a02-b9b0-3d9a21a123b6,f.devries,123.6.12.162,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,03/30/2022 18:15:01,False
+39bad830-bea6-4878-b5b5-d6b9c027f61c,j.jansen,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,04/02/2022 04:16:01,False
+8b4b4ccb-ec20-43b7-b1f5-eec3c5c2e5b4,f.devries,40.92.16.16,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,04/02/2022 04:23:01,False
+279431c6-2745-48e6-9079-65f3b9dec9d4,j.jansen,40.80.122.5,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,04/07/2022 05:59:01,False
+98018cdc-d6e7-4ae3-bc2a-0083182578bc,k.vaak,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",,04/10/2022 11:09:01,False
+af7d3572-fc75-462a-a91e-0f315fb8ae70,k.vaak,188.144.22.8,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,05/01/2022 22:00:01,False
+bd3f2004-820c-4dcd-8f6e-8f98b1e0b9ee,k.vaak,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,05/08/2022 22:07:01,False
+507b0d46-da76-4c79-a8cb-7203a7ddf3b9,j.jansen,40.92.16.16,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0,,05/19/2022 10:35:01,False
+15ff9251-bdbc-465f-bd83-a96393ff0c04,k.vaak,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",,05/25/2022 05:01:01,False
+998f832f-6af1-47f6-a94b-710af0e3d1f1,k.vaak,40.80.122.5,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",,06/20/2022 22:20:01,False
